@@ -9,6 +9,6 @@ Project Image:
 
 Circuit Diagram:
 
-![alt tag](https://github.com/Ali-Hirani/color-mixing-lamp/blob/master/circuit_diagram.PNG)
+![alt tag](https://github.com/Ali-Hirani/color-mixing-lamp/blob/master/circuit_diagram.png)
 
 Generated using fritzing.
